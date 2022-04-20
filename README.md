@@ -1,14 +1,23 @@
 # Turbo-Readme
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-![Project Image](./Assets/img/Screen Shot 2022-04-19 at 10.17.25 PM_Easy-Resize.com.jpg)
+## Table of Contents
+- [Description](#description)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 
 ---
 
 ## Deployment
 
-- [Deployment](https://drive.google.com/file/d/1wE6gQP2oK0atCPPF0XtoLGcyhDCJoxTF/view?usp=sharing)
+- [Video Demonstration](https://drive.google.com/file/d/1wE6gQP2oK0atCPPF0XtoLGcyhDCJoxTF/view?usp=sharing)
 
 ---
 ### User Story
@@ -43,9 +52,16 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-##### Technologies
+## Technologies
 
 - Node.js
 - inquirer
+
+## Questions:
+If you have any questions about the repo, open an issue or contact me at eliasvasque7@gmail.com. You can find more of my work at [gokublue007](https://github.com/gokublue007)! Thank You!
+
+### Contact Information:
+  - Github: [gokublue007](https://github.com/gokublue007)
+  - Email: [eliasvasque7@gmail.com](user@example.com) 
 
 [Back To The Top](#read-me-template)
