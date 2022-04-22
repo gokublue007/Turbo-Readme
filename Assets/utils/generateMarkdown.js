@@ -4,11 +4,11 @@ function renderLicenseBadge(license) {
   if (this.license === 'true') {
     return `[![license:MIT](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://shields.io/)`
 } if (this.license === 'true') {
-  return `[![license:ACACHE 2.0](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://shields.io/)`
+  return `[![license:ACACHE 2.0](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://shields.io/)`
 } if (this.license === 'true') {
-  return `[![license:GPL 3.0](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://shields.io/)`
+  return `[![license:GPL 3.0](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://shields.io/)`
 } if (this.license === 'true') {
-  return `[![license:BSD 3.0](https://img.shields.io/badge/license-${data.license}-blue.svg)](https://shields.io/)`
+  return `[![license:BSD 3.0](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://shields.io/)`
 }
 else {
     return ''
